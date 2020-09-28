@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/nextjs-material-kit.git"
+    "url": "git+https://sikky99.github.io/dot"
   },
   "keywords": [
     "next",
@@ -33,7 +33,7 @@
   "author": "Creative Tim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/nextjs-material-kit/issues"
+    "url": "https://sikky99.github.io/dot"
   },
   "homepage": "https://sikky99.github.io/dot",
   "dependencies": {
